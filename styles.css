@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px 0px 0px 30px;
+    background-color: #DEF9C4;
+}
+input, button {
+    margin: 5px 0;
+}
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 2px solid #50B498;
+    padding: 10px;
+    color: #468585;
+}
+h1,input,label{
+    color: #468585;
+}
+button{
+    background-color: #aaedb5;
+    padding: 14px 10px 14px 10px;
+    border-radius: 7px;
+    border: 1px solid #468585;
+    color: #468585;
+    cursor: pointer;
+    font-size: large;
+    margin-bottom: 20px;
+}
+label,input{
+    font-size: large;
+}
+input{
+    margin-bottom: 20px;
+}
